@@ -19,4 +19,4 @@ def binarie_search(list,item):
     return('fodeo number not founded in the list')
 
 test_list = list(range(1,100))
-print(binarie_search(test_list,1))
+print(binarie_search(test_list, 42))
